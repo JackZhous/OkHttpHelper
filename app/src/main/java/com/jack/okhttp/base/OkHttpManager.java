@@ -6,7 +6,6 @@ import android.util.Log;
 import com.jack.okhttp.call.NetCall;
 import com.jack.okhttp.call.NetCallBack;
 import com.jack.okhttp.utils.JLog;
-import com.jack.okhttp.utils.NetFlag;
 
 import java.io.IOException;
 import java.util.HashMap;

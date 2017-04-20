@@ -28,4 +28,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile files('libs/okhttp-3.6.0.jar')
     compile files('libs/okio-1.11.0.jar')
+    compile files('libs/fastjson-1.2.31.jar')
 }

@@ -6,22 +6,17 @@ import android.os.Handler;
 import android.os.Looper;
 
 
-import com.jack.okhttp.base.BaseResponse;
 import com.jack.okhttp.utils.JLog;
 import com.jack.okhttp.view.LoadDialog;
 
 import java.io.IOException;
 import java.lang.ref.WeakReference;
 
-import okhttp3.Call;
-import okhttp3.Callback;
-import okhttp3.Response;
-
 /**
  * Created by jackzhous on 2017/3/14.
  */
 
-public abstract class NetCallBack<T>{
+public abstract class NetCallBack{
 
     private static Handler          mainHandler = new Handler(Looper.getMainLooper());
     private LoadDialog              loadDialog;

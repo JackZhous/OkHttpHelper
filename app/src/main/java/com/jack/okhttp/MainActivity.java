@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
+import com.alibaba.fastjson.JSON;
 import com.jack.okhttp.base.OkHttpManager;
 import com.jack.okhttp.call.NetCall;
 import com.jack.okhttp.call.NetCallBack;
@@ -17,6 +18,7 @@ import java.lang.ref.WeakReference;
 import java.util.HashMap;
 
 public class MainActivity extends Activity {
+    private static final String TAG = "j_activity";
 
     private NetCall mNetManager = OkHttpManager.getInstance();
     private static final int  LOGIN_TASK = 1;
@@ -26,8 +28,16 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        JavaBean bean1 = new JavaBean();
+        bean1.setId(1);
+        bean1.setUsername("jackzhous");
+
+        String jsonstr = "{\"code\":1,\"username\":\"jackzhous\",\"username111\":\"jackzhous\"}";
+        JLog.i(TAG, jsonstr);
 
 
+        JavaBean bean2 = JSON.parseObject(jsonstr, JavaBean.class);
+        JLog.i(TAG, bean2.getUsername() + "  " + bean2.getId());
     }
 
 
