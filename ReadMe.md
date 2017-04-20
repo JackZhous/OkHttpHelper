@@ -97,3 +97,6 @@ private static class NetBack extends NetCallBack {
 + 支持网络请求类型taskFlag，根据这个类型你可以处理不同的网络结果
 
 如有不足，还请拍砖....
+
+
+https://gank.io/post/56e80c2c677659311bed9841
