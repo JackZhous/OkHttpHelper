@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_5b89913357424c6f22f6f741b27407212b21a66b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sever1/Documents/workplace/OkHttpHelper/app/libs/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/pre-dexed/debug/okio-1.11.0_b3ea69fc9156c28aa4e76929529a30a6630e440d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sever1/Documents/workplace/OkHttpHelper/app/libs/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_30e2d702aaa5021cbe6f68d8d01a82bb257e32ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_171386352caa97a670e6415744b5bbf91b4e15f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_e94ac46c5d173b55a185a56c356f3cbf2d4456cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_b4be7c165f48532eff9f8ac95d41b9346da214ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sever1/jackzhous/android_sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_91e5a5966debee88626d0f0d60f98b446de60986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/sever1/Documents/workplace/OkHttpHelper/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_d4090f7222e4c56530bc379e3cfb65882be858ca.jar" />
+    </item>
+
+</items>

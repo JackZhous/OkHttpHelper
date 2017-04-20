@@ -10,8 +10,8 @@ import okhttp3.Callback;
 
 public interface NetCall {
 
-    void OkHttpGet(HashMap<String, String> data, Callback callBack);
+    void OkHttpGet(HashMap<String, String> data, NetCallBack callBack);
 
 
-    void OkHttpPostJSON(String postParams, Callback callBack);
+    void OkHttpPostJSON(String postParams, NetCallBack callBack);
 }
